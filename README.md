@@ -24,7 +24,7 @@
 <img src="assets/createBatch.png" alt="createBatch" width="400" />
 </p>
 
-- Job Monitoring: The process instance checks the status and continues polling until the prediction job is complete. If the status is failed, the instance will take the failure intimate path and will end eventually.
+- Job Monitoring: The process instance checks the status and continues polling until the prediction job is complete. If the status is failed, the instance will take the information of failure path and will end eventually.
 
 <p align="center">
 <img src="assets/jobMonitoring.png" alt="jobMonitoring" width="400" />
